@@ -1,4 +1,3 @@
 # MergeConflict-seliskases
 
-<<<<<<< HEAD
-Readme in Branch1
+1st Clone
