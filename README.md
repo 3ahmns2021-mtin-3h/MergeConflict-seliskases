@@ -1,5 +1,3 @@
 # MergeConflict-seliskases
 
-<<<<<<< HEAD
-Offline Änderung im ReadMe
-=======
+2nd Clone
