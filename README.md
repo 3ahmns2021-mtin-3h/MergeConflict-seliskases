@@ -1,3 +1,3 @@
 # MergeConflict-seliskases
 
-2nd Clone
+2nd Clone - merge error
